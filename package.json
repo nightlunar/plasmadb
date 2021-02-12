@@ -1,0 +1,9 @@
+{
+    "name": "plasma-db",
+    "version": "0.1.0",
+    "description": "Türkçe kullanılabilen database modülü",
+    "main": "plasmic.js",
+    "repository": "",
+    "author": "skybow#9999",
+    "license": "MIT"
+}
