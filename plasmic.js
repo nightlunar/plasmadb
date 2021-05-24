@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-module.exports = class pinkdb {
+module.exports = class plasmadb {
 
    
     constructor(filePath){
